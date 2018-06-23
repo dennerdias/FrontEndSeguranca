@@ -281,3 +281,10 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px;
+   
+}
